@@ -3,3 +3,4 @@
 [milestone 4] (https://colab.research.google.com/drive/1nbYMSZd0E_V5x3G30vqk5NkuxZfqV5L1?usp=sharing) 
 [milestone 5] (https://colab.research.google.com/drive/1fOuH-Ru-S9HrHN0wHSyvMjrxJK12k0lw?usp=sharing)
 [milestone 6] (https://colab.research.google.com/drive/16x_7uBm2t2z3Kx-3hRcoyaLNz8-Kn4AL?usp=sharing)
+[milestone 7] (https://colab.research.google.com/drive/1GQ8fjsL_y0P6YfvaKfh4xJK13IPWsVEX?usp=sharing)
